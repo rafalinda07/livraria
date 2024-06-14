@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+h1{
+    color: bisque;
+    text-align: center;
+}
+
+.cabecalho{
+    background-color: plum;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.imagem-container{
+    width: 90px;
+    height: 90px;
+    padding: lem;
+}
